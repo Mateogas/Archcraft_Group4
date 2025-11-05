@@ -1,0 +1,11 @@
+# Ignore everything via *
+
+# + Include essential world data
+!region/
+!dim1/
+!dim-1/
+!entities/
+!poi/
+!level.dat
+!level.dat_old
+!icon.png
