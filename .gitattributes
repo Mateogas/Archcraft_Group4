@@ -1,2 +1,0 @@
-Archcraft_Group4-supposedworking.zip filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
